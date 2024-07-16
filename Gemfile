@@ -57,3 +57,4 @@ source 'https://rails-assets.org' do
 end
 
 gem 'simple_form'
+gem 'mutex_m', '~> 0.2.0'
