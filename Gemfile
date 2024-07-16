@@ -59,3 +59,4 @@ end
 gem 'simple_form'
 gem 'mutex_m', '~> 0.2.0'
 gem 'observer', '~> 0.1.2'
+gem 'psych', '~> 5.1', '>= 5.1.2'
