@@ -59,5 +59,6 @@ end
 gem 'simple_form'
 gem 'mutex_m', '~> 0.2.0'
 gem 'observer', '~> 0.1.2'
-gem 'psych', '~> 5.1', '>= 5.1.2'
-gem 'i18n', '~> 1.14', '>= 1.14.5'
+gem 'psych', '~> 3.3.2'
+gem 'stringio', '~> 3.1', '>= 3.1.1'
+gem 'i18n', '~> 1.6'
